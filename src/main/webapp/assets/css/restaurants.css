@@ -1,0 +1,65 @@
+#rests {
+    background-color: #212529;
+}
+
+.restaurant-list-view {
+    width: 100%;
+    height: auto;
+    background-color: #212529;
+}
+
+.restaurant-list-element {
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.restaurant-logo{
+    height: 160px;
+    float: left;
+    margin: 15px 30px;
+    border-radius: 5px;
+}
+
+.restaurant-details {
+    width: 60%;
+    float: left;
+    text-align: left;
+}
+
+.restaurant-name {
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.form {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.input-form {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 10%;
+}
+
+.form-label {
+    margin-top: 30px;
+    margin-left: 25%;
+}
+
+.form-input {
+    margin-left: 25%;
+    width: 45%;
+}
+
+#login-bttn {
+    margin-left: 45%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
